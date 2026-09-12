@@ -1,50 +1,40 @@
-# 🚀 FinCorp - B2B SaaS Payroll & Financial Management Platform
-
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen?style=for-the-badge&logo=streamlit)](https://fincorp-az.streamlit.app)
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analytics-orange?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Status](https://img.shields.io/badge/Status-Production%20Ready-success?style=for-the-badge)]()
+# 👋 Salam, mən Ayxan Bağırov!
 
-A high-performance B2B SaaS financial tracking and payroll management system engineered for modern business analytics.
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Web%20Apps-red?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analytics-orange?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Status](https://img.shields.io/badge/Status-Continuous%20Learning-success?style=for-the-badge)]()
+
+Python Developer & Data Analytics Enthusiast | Building B2B SaaS Solutions
 
 </div>
 
 ---
 
-## 🌟 Overview
-
-*FinCorp* is an enterprise-grade financial management and automated payroll web application. Built with *Python* and *Streamlit*, it provides robust data analytics, real-time expense monitoring, and streamlined B2B financial workflows through a clean, responsive interface optimized for both desktop and mobile platforms.
-
----
-
-## 🛠️ Tech Stack
-
-* *Frontend & Backend:* Streamlit (Python-based reactive web framework)
-* *Data Processing & Analytics:* Pandas, NumPy
-* *Cloud Infrastructure & Deployment:* Streamlit Community Cloud
-* *Version Control:* Git & GitHub
+### 🚀 About Me
+* 🌱 I'm currently studying and sharpening my skills in *Python programming, data structures, and software engineering*.
+* 💼 Focused on building automated web applications, financial dashboards, and B2B SaaS tools using *Streamlit, **Pandas*, and modern automation workflows.
+* 🎓 Student at *Qarabağ Universiteti*.
 
 ---
 
-## 💡 Core Features
-
-* *📊 Interactive Financial Dashboards:* Real-time visualization of corporate expenditures, cash flow, and market trends.
-* *💼 Automated Payroll Management:* Optimized calculation structures for B2B financial operations and corporate salary distribution.
-* *📈 Advanced Data Analytics:* Built-in filtering, metric optimization, and automated financial report generation using Pandas.
-* *📱 Responsive Mobile Experience:* Fully adapted UI layout ensuring seamless accessibility across all mobile devices.
-
----
-
-## 🚀 Live Application
-
-You can access the live, production-deployed version of the application here:
-👉 *[fincorp-az.streamlit.app](https://fincorp-az.streamlit.app)*
+### 🛠️ Tech Stack & Tools
+* *Languages:* Python
+* *Data Science & Analytics:* Pandas, NumPy
+* *Web Frameworks:* Streamlit
+* *Tools & IDEs:* PyCharm, Git, GitHub, n8n (Workflow Automation)
 
 ---
 
-## 👨‍💻 Author
+### 🌟 Featured Project
+* **[FinCorp-SaaS](https://github.com/Ayxan-Bagirov/fincorp-saas)** — Enterprise-grade financial management and automated payroll web application built with Python and Streamlit.
+  * 🔗 *Live Demo:* [fincorp-az.streamlit.app](https://fincorp-az.streamlit.app)
 
-*Ayxan Bağırov*
-* [GitHub Profile](https://github.com/Ayxan-Bagirov)
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayxan-Bagirov&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</div>
